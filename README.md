@@ -10,8 +10,16 @@ What's Available
 2. Browse the source using your web browser
 3. Download an archive of the [project][pkg] to try out the samples.
 
+Additional Ready Material
+-------------------------
+
+1. [jQuery Documentation][jquery-docs]
+2. [jQuery Tutorials][jquery-tutorials]
+
 
 [jquery]:http://jquery.com/
+[jquery-docs]:http://docs.jquery.com/Main_Page
+[jquery-tutorials]:http://docs.jquery.com/Tutorials
 [pkg]:https://github.com/foo4u/jquery-html5-demo/archives/master
 [slidedeck]:https://github.com/foo4u/jquery-html5-demo/blob/master/doc/jQuery_HTML5.pdf
 
