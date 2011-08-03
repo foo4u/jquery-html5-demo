@@ -10,8 +10,8 @@ What's Available
 2. Browse the source using your web browser
 3. Download an archive of the [project][pkg] to try out the samples.
 
-Additional Ready Material
--------------------------
+Additional Reading Material
+---------------------------
 
 1. [jQuery Documentation][jquery-docs]
 2. [jQuery Tutorials][jquery-tutorials]
